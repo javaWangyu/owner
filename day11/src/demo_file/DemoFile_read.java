@@ -17,6 +17,8 @@ public class DemoFile_read {
             BufferedReader bufferedReader=new BufferedReader(inputStreamReader);
 
             String s="";
+			
+			bbbbbbbbbbbbb
 
             ArrayList<String> stringArraylist=new ArrayList<>();
 
@@ -55,6 +57,7 @@ public class DemoFile_read {
 
                     System.out.println();
 					wwwwwwwwwwwwwwww
+					ccccccccccccccccccc
 					aaaaaaaaaaaaaaaaaaaaaaaa
 
 
